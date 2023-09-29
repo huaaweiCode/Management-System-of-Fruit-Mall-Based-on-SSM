@@ -1,10 +1,6 @@
+
 # 基于SSM的水果商城管理系统
 
-## 获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ：**商城12** ，获取完整版源码
-
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -35,47 +31,39 @@
 
 ### 4.1 登录
 
-![管理员登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211221239202.jpg)
+![管理员登录](https://img-blog.csdnimg.cn/img_convert/1e2ddb3307a167c51fe5c7e67b0cfc80.jpeg)
 
 ### 4.2 用户模块
 
-![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211221240865.jpg)
+![首页](https://img-blog.csdnimg.cn/img_convert/26a89dee11243275880fc0253b885de3.jpeg)
 
-![商品详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211221240043.jpg)
+![商品详情](https://img-blog.csdnimg.cn/img_convert/fe851b18b2aa20e75a9a5a8f7b9a8519.jpeg)
 
-![用户-商品 收藏](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211221240978.jpg)
+![用户-商品 收藏](https://img-blog.csdnimg.cn/img_convert/2dc8c5501737a121bc03b28d56bc0036.jpeg)
 
-![用户-购物车](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211221240538.jpg)
+![用户-购物车](https://img-blog.csdnimg.cn/img_convert/1cbbf7796494d8f8bc83ebd9094f2d02.jpeg)
 
-![用户-订单管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211221240540.jpg)
+![用户-订单管理](https://img-blog.csdnimg.cn/img_convert/cbaba6b7ae4f7815770c71facabc5b6a.jpeg)
 
-![用户-留言](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211221240247.jpg)
+![用户-留言](https://img-blog.csdnimg.cn/img_convert/97e6327bcf738818cb4de41db19c3095.jpeg)
 
 ### 4.3 管理员模块
 
-![管理员-首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211221240812.jpg)
+![管理员-首页](https://img-blog.csdnimg.cn/img_convert/4b82ee587460d29ded08230a6755418f.jpeg)
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211221240176.jpg)
+![管理员-用户管理](https://img-blog.csdnimg.cn/img_convert/7c80a7c98fceb59766dc0d7c455faf74.jpeg)
 
-![管理员-商品管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211221240193.jpg)
+![管理员-商品管理](https://img-blog.csdnimg.cn/img_convert/7da31d323b7f2e89fd191e26ba53c87f.jpeg)
 
-![管理员-留言管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211221240081.jpg)
+![管理员-留言管理](https://img-blog.csdnimg.cn/img_convert/a25d44245197147e207676908d975dc6.jpeg)
 
-![管理员-类目管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211221240051.jpg)
+![管理员-类目管理](https://img-blog.csdnimg.cn/img_convert/f46e8ceaeded6780a8d35efd4429f892.jpeg)
 
-![管理员-公告管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211221240987.jpg)
+![管理员-公告管理](https://img-blog.csdnimg.cn/img_convert/2e5367d3f7fd2b5271832fa354134677.jpeg)
 
-![管理员-订单管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211221240739.jpg)
+![管理员-订单管理](https://img-blog.csdnimg.cn/img_convert/faa89ec47265313e10d0158755ced676.jpeg)
+### 获取方式&视频演示
 
-## 5、视频演示
+下方扫一下，回复关键词：商城
 
-[点击播放视频，视频位于文章最后](输入链接)
-
-## 6、获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ：**商城12**  ，获取完整版源码
-
-
-
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+![gitee](https://img-blog.csdnimg.cn/img_convert/9fbf727cc5ca3c272784be9910129d46.png)
